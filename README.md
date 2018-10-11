@@ -1,0 +1,2 @@
+# brigade-starter
+purescript-brigade
